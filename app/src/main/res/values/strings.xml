@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TabsDulceriaFit</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Tab -->
+    <string name="tab_galletas">GALLETAS</string>
+    <string name="tab_panquecas">PANQUECAS</string>
+    <string name="tab_tortas">TORTAS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
